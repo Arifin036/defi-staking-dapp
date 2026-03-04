@@ -6,32 +6,27 @@ Decentralized Web3 staking platform built on EVM-compatible blockchain. Users ca
 ![React](https://img.shields.io/badge/React-18-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Development-yellow)
-
-Decentralized Web3 staking platform built on EVM-compatible blockchain...
-# 🚀 DeFi Staking DApp
-
-![Solidity](https://img.shields.io/badge/Solidity-0.8.x-blue)
-![React](https://img.shields.io/badge/React-18-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-Decentralized Web3 staking platform built on EVM-compatible blockchain...
-
----
-
 ## ✨ Features
 
 - 🔐 Wallet Connection (MetaMask / WalletConnect)
 - 💰 Token Staking
-- 🎁 Reward Distribution
+- 🎁 Reward Distribution System
 - ⛽ Gas Optimized Smart Contract
-- 📊 Real-time On-chain Data
+- 📊 Real-time On-chain Data## 🛠 Tech Stack
 
----
-
-## 🛠 Tech Stack
-
-- Frontend: React
+- Frontend: React / Next.js
 - Smart Contract: Solidity
 - Web3 Library: Ethers.js
 - Framework: Hardhat
-- Network: Ethereum / EVM Compatible
+- Storage: IPFS## 📦 Installation
+
+git clone https://github.com/Arifin036/defi-staking-dapp.git
+cd defi-staking-dapp
+npm install
+npm run dev## 🗺 Roadmap
+
+- [ ] Deploy Smart Contract
+- [ ] Add Staking UI
+- [ ] Token Launch
+- [ ] Multi-chain Support
+- [ ] Security Audit
