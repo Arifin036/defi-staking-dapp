@@ -8,3 +8,30 @@ Decentralized Web3 staking platform built on EVM-compatible blockchain. Users ca
 ![Status](https://img.shields.io/badge/Status-Development-yellow)
 
 Decentralized Web3 staking platform built on EVM-compatible blockchain...
+# 🚀 DeFi Staking DApp
+
+![Solidity](https://img.shields.io/badge/Solidity-0.8.x-blue)
+![React](https://img.shields.io/badge/React-18-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+Decentralized Web3 staking platform built on EVM-compatible blockchain...
+
+---
+
+## ✨ Features
+
+- 🔐 Wallet Connection (MetaMask / WalletConnect)
+- 💰 Token Staking
+- 🎁 Reward Distribution
+- ⛽ Gas Optimized Smart Contract
+- 📊 Real-time On-chain Data
+
+---
+
+## 🛠 Tech Stack
+
+- Frontend: React
+- Smart Contract: Solidity
+- Web3 Library: Ethers.js
+- Framework: Hardhat
+- Network: Ethereum / EVM Compatible
